@@ -1,0 +1,8 @@
+{"timestamp":559459,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":560353,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","experiment_type":"rollout","branch":"control"}}
+{"timestamp":560728,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":564897,"category":"urlbar","name":"engagement","extra":{"selected_result_subtype":"","interaction":"typed","groups":"heuristic,general,general,general,general,general,general,general","provider":"Autofill","n_results":"8","selected_result":"autofill_origin","results":"autofill_origin,history,history,history,history,history,history,history","n_words":"1","selected_position":"1","engagement_type":"enter","search_engine_default_id":"google-ubuntu-sn","n_chars":"3","search_mode":"","sap":"urlbar"}}
+{"timestamp":566520,"category":"translations.panel","name":"open","extra":{"view_name":"defaultView","flow_id":"b2c7d583-d69b-4497-8dff-da30bcdf3696","first_interaction":"false","opened_from":"translationsButton","document_language":"en","auto_show":"true"}}
+{"timestamp":571002,"category":"translations.panel","name":"cancel_button","extra":{"first_interaction":"false","flow_id":"b2c7d583-d69b-4497-8dff-da30bcdf3696"}}
+{"timestamp":571016,"category":"translations.panel","name":"close","extra":{"flow_id":"b2c7d583-d69b-4497-8dff-da30bcdf3696","first_interaction":"false"}}
+{"timestamp":588656,"category":"nimbus_events","name":"is_ready"}
